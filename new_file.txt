@@ -1,1 +1,3 @@
 hello
+this is update on the same file you already updaed 
+fix this conflict
